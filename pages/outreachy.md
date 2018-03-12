@@ -7,7 +7,7 @@ title: 'Outreachy'
 # Outreachy
 
 The OpenTracing and Jaeger projects are happy to announce our participation in the Outreachy program, running
-from May 2018 to August 2018. 
+from May 2018 to August 2018.
 
 Please see the main [program page](https://outreachy.org) for the general information about the program, such
 as its purpose, timeline, eligibility requirements, and how to apply.
@@ -58,7 +58,7 @@ even better, volunteer for mentoring an intern to work on your idea!
 
 ## Contribute
 
-As part of the application process, the Outreachy program recommends that candidates make 
+As part of the application process, the Outreachy program recommends that candidates make
 [small contributions](https://www.outreachy.org/apply/make-contributions/) to the project they intend to apply for.
 
 For this round, we are looking for an intern to help us on the documentation side of the projects. As such, we would
@@ -97,7 +97,7 @@ See [README.md](https://github.com/jaegertracing/documentation/blob/master/READM
 * Install [MkDocs](http://www.mkdocs.org/#installation)
 * Fork the Repo
 * Clone the Repo
-* Explore the project structure 
+* Explore the project structure
 * Create a branch
 * Make a small change to a document/page (find a typo, spelling, or grammar error)
 * Write a good commit message
@@ -122,12 +122,12 @@ Write a README file that includes at least the following information:
 
 Mentor: Julie Stickler
 
-All of the following tasks are in the context of the internship. While all items will be used during the evaluation, 
+All of the following tasks are in the context of the internship. While all items will be used during the evaluation,
 the first two tasks are "mandatory" to consider the internship "successful".
 
 ### Contributor Docs
 
-Document any additional steps that you needed to perform in order to get your system 
+Document any additional steps that you needed to perform in order to get your system
 configured that were not covered in the instructions linked from these pages.
 (That is, if there is a link on the page, there is no need to duplicate the instructions from the link, as long as they work.)
 
@@ -135,7 +135,7 @@ configured that were not covered in the instructions linked from these pages.
 * [jaegertracing/documentation/README.md](https://github.com/jaegertracing/documentation/blob/master/README.md)
 
 Developers tend to work in a Linux environment. Technical Writers are sometimes more familiar
-with other operating systems. If you are new to Linux or are working on a Mac or Windows environment, 
+with other operating systems. If you are new to Linux or are working on a Mac or Windows environment,
 your contribution might help other writers who want to contribute to an Open Source project.
 
 ### Standardize README files
@@ -149,17 +149,17 @@ Do some research into Read Me templates:
 * [cfpb/open-source-project-template](https://github.com/cfpb/open-source-project-template)
 * [noffle/art-of-readme](https://github.com/noffle/art-of-readme)
 
-1. Create a standardized template 
+1. Create a standardized template
 1. Update all the OpenTracing Repos to use the README template
 1. Update all the JaegerTracing Repos to use the README template
 1. [Readme files for Docker Hub](https://github.com/jaegertracing/jaeger/issues/188)
 
 ### Small Fixes to existing docs
 
-Select a file and fix any spelling errors, grammatical errors, or broken links.  Common errors may include spelling mistakes, 
+Select a file and fix any spelling errors, grammatical errors, or broken links.  Common errors may include spelling mistakes,
 subject/verb agreement errors, and missing articles (a, an, the).
 
-Be sure to distinguish between actual spelling errors and names of components, other open source projects, or technologies 
+Be sure to distinguish between actual spelling errors and names of components, other open source projects, or technologies
 (which can often look like misspellings or capitalization errors)
 
 1. [Fix a typo](https://github.com/opentracing/opentracing.io/issues/231)
@@ -189,7 +189,7 @@ Monitor communication channels and issues and add new topics to the [FAQ](https:
 
 OpenTracing and Jaeger participated in the following Outreachy programs:
 
-* [December 2017 to March 2018](/outreachy-201702)
+* [December 2017 to March 2018](./outreachy-201702)
 
 ## Code of Conduct
 
